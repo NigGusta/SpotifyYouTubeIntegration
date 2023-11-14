@@ -18,6 +18,6 @@ Baixar as bibliotecas necessárias:
 - `googleapiclient`: biblioteca para interagir com várias APIs do Google, utilizando para acessar a API do YouTube.
 - `spotipy`: biblioteca para interagir com a API do Spotify.
 
-**Usando o "func.py" e o "apply.py" para continuar sua criatividade e necessidade. O "test.py" permite passar uma playlist do YouTube para criar uma nova playlist no Spotify com 50 músicas.**
+**Use o "func.py" e o "apply.py" para continuar sua criatividade e necessidade. O "test.py" permite passar uma playlist do YouTube para criar uma nova playlist no Spotify com 50 músicas.**
 
 
