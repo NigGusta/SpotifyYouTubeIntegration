@@ -10,6 +10,8 @@ Este projeto é uma ferramenta para manipular e integrar playlists entre YouTube
 4. **Adicionar Músicas à Playlist do Spotify**: Adicione músicas do YouTube à sua playlist do Spotify. ➡️🎵
 5. **Excluir Músicas da Playlist do Spotify**: Exclua músicas da sua playlist do Spotify. ❌🎵
 6. **Renomear Playlist do Spotify**: Renomeie suas playlists. 🔄
+7. Criar Playlist com Link do YouTube: Crie uma nova playlist no Spotify a partir de um link do YouTube. 📺➡️🎵
+8. Excluir Músicas Duplicadas: Remova músicas duplicadas de uma playlist no Spotify, mantendo apenas uma instância de cada música. 🔄🎵
 
 ## Como Usar
 Primeiro de tudo, você deve obter suas chaves de API para o YouTube Data API v3 e o Spotify API e alterá-los no código.
